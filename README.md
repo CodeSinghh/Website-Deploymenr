@@ -1,5 +1,5 @@
 # Details About Project
-This is my first project in Cloud Computing, and the project I chose to start with is __Deploying a basic (static) website__. And the cloud platform that is choose is AWS, and I prefer AWS for several reasons
+This is my first project in Cloud Computing, and the project I choose to start with is __Deploying a basic (static) website__. And the cloud platform that is choose is AWS, and I prefer AWS for several reasons
 1. AWS has Wide Variety of service
 2. Simple & Easy language Documenations for Quick help
 3. I have hands-on experience in many of the services
