@@ -1,0 +1,18 @@
+{
+    "Version": "2012-10-17",
+    "Id": "Policy1707850782994",
+    "Statement": [
+        {
+            "Sid": "Stmt1707848796673",
+            "Effect": "Allow",
+            "Principal": {
+                "AWS": "arn:aws:iam::199810856185:user/Dhiraj"
+            },
+            "Action": "s3:*",
+            "Resource": [
+                "arn:aws:s3:::portfolio-website-project",
+                "arn:aws:s3:::portfolio-website-project/*"
+            ]
+        }
+    ]
+}
